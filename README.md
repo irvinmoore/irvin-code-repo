@@ -1,4 +1,4 @@
-# irvin code repo
+# Irvin Code Repo
 
 ## Overview
 
@@ -9,4 +9,15 @@ Git is a very powerful tool used to keep code organized through version control.
 - git
 - Github
 - repositories
-- 
+
+#### Steps to push to Gitgub
+- git status 
+  - informational command
+- git add file-name
+  - staging files
+- git commit -m "active vioce and descriptive message"
+  - version control
+  - computer id tracking number
+  - message for our changes
+- git push origin branch-name
+  - right now the branch 
