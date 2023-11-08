@@ -21,3 +21,6 @@ Git is a very powerful tool used to keep code organized through version control.
   - message for our changes
 - git push origin branch-name
   - right now the branch 
+
+### Assets
+- [India Cohort Syllabus](https://github.com/learn-academy-2023-india/syllabus)
